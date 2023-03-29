@@ -263,8 +263,8 @@
                 }, 
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 2956, 2957, 2958, 2959, 2960, 2961, 0, 0, 90, 0, 0, 0, 0, 187, 0, 0, 0, 0, 0, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 2962, 2963, 2964, 2965, 2966, 2967, 0, 0, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 2968, 2969, 2970, 2971, 2960, 2961, 0, 0, 90, 0, 0, 0, 0, 187, 0, 0, 0, 0, 0, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 2974, 2975, 2976, 2977, 2978, 2979, 0, 0, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -618,57 +618,57 @@
          "objects":[
                 {
                  "height":17.875,
-                 "id":19,
-                 "name":"Hos\u0107o",
+                 "id":30,
+                 "name":"Zalozba",
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
-                     "fontfamily":"Arial",
-                     "text":"Hos\u0107o",
+                     "halign":"center",
+                     "text":"Za\u0142o\u017eba",
+                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":70,
-                 "x":453.34,
-                 "y":371.09
+                 "x":350,
+                 "y":163
                 }, 
                 {
                  "height":17.875,
-                 "id":20,
+                 "id":31,
+                 "name":"Hosco",
+                 "rotation":0,
+                 "text":
+                    {
+                     "halign":"center",
+                     "text":"Hos\u0107o",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":443.529244285366,
+                 "y":371
+                }, 
+                {
+                 "height":17.875,
+                 "id":32,
                  "name":"Lucija",
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
-                     "fontfamily":"Arial",
+                     "halign":"center",
                      "text":"Lucija",
+                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":70,
-                 "x":552.43,
-                 "y":162.945685552754
-                }, 
-                {
-                 "height":17.875,
-                 "id":21,
-                 "name":"Za\u0142o\u017eba",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "fontfamily":"Arial",
-                     "text":"Za\u0142o\u017eba",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":70,
-                 "x":354.76,
-                 "y":163.752648865208
+                 "x":541.01,
+                 "y":163.08
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -677,7 +677,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":30,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -857,6 +857,19 @@
          "imagewidth":192,
          "margin":0,
          "name":"Sorbisch na klar",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":6,
+         "firstgid":2968,
+         "image":"tilesets\/sorbisch-na-klar-tiled2.png",
+         "imageheight":64,
+         "imagewidth":192,
+         "margin":0,
+         "name":"Sorbisch na klar 2",
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
