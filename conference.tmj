@@ -392,6 +392,38 @@
                  "width":96,
                  "x":256,
                  "y":96
+                }, 
+                {
+                 "height":197.764751330884,
+                 "id":22,
+                 "name":"stream",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCAulmMJFL_AF9lc-9mvJuQA"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to see the conference livestream"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":218.420177868494,
+                 "x":31.3141857413617,
+                 "y":217.673713369296
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -509,8 +541,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":62,
- "nextobjectid":22,
+ "nextlayerid":63,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
