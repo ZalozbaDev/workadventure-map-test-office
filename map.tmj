@@ -623,7 +623,9 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Verdana",
                      "halign":"center",
+                     "pixelsize":13,
                      "text":"Za\u0142o\u017eba",
                      "valign":"center",
                      "wrap":true
@@ -631,7 +633,7 @@
                  "type":"",
                  "visible":true,
                  "width":70,
-                 "x":350,
+                 "x":349,
                  "y":163
                 }, 
                 {
@@ -641,7 +643,9 @@
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Verdana",
                      "halign":"center",
+                     "pixelsize":13,
                      "text":"Hos\u0107o",
                      "valign":"center",
                      "wrap":true
@@ -649,17 +653,19 @@
                  "type":"",
                  "visible":true,
                  "width":70,
-                 "x":443.529244285366,
+                 "x":444.53,
                  "y":371
                 }, 
                 {
-                 "height":17.875,
+                 "height":17.88,
                  "id":32,
                  "name":"Lucija",
                  "rotation":0,
                  "text":
                     {
+                     "fontfamily":"Verdana",
                      "halign":"center",
+                     "pixelsize":13,
                      "text":"Lucija",
                      "valign":"center",
                      "wrap":true
@@ -667,7 +673,7 @@
                  "type":"",
                  "visible":true,
                  "width":70,
-                 "x":541.01,
+                 "x":540.01,
                  "y":163.08
                 }],
          "opacity":1,
