@@ -335,14 +335,19 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":320,
+                 "height":102.778830733343,
                  "id":18,
                  "name":"jitsiConference",
                  "properties":[
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"moderated\/8a5bc49d44a6357d3a4c7e85c1fa203da1296eabcdce9876d46c4878793450d2"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -354,7 +359,7 @@
                  "visible":true,
                  "width":219.090909090909,
                  "x":32,
-                 "y":96
+                 "y":83.3101035136317
                 }, 
                 {
                  "height":71.612250966399,

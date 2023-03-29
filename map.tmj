@@ -630,7 +630,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":70,
+                 "width":53,
                  "x":359,
                  "y":166
                 }, 
@@ -648,7 +648,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":70,
+                 "width":41.5,
                  "x":459.53,
                  "y":371
                 }, 
@@ -666,7 +666,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":70,
+                 "width":39,
                  "x":557.01,
                  "y":167.08
                 }],
