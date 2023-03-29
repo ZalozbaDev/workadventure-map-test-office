@@ -624,17 +624,15 @@
                  "text":
                     {
                      "fontfamily":"Verdana",
-                     "halign":"center",
                      "pixelsize":13,
                      "text":"Za\u0142o\u017eba",
-                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":70,
-                 "x":349,
-                 "y":163
+                 "x":359,
+                 "y":166
                 }, 
                 {
                  "height":17.875,
@@ -644,16 +642,14 @@
                  "text":
                     {
                      "fontfamily":"Verdana",
-                     "halign":"center",
                      "pixelsize":13,
                      "text":"Hos\u0107o",
-                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":70,
-                 "x":444.53,
+                 "x":459.53,
                  "y":371
                 }, 
                 {
@@ -664,17 +660,15 @@
                  "text":
                     {
                      "fontfamily":"Verdana",
-                     "halign":"center",
                      "pixelsize":13,
                      "text":"Lucija",
-                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":70,
-                 "x":540.01,
-                 "y":163.08
+                 "x":557.01,
+                 "y":167.08
                 }],
          "opacity":1,
          "type":"objectgroup",
