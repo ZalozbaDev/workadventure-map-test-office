@@ -669,6 +669,24 @@
                  "width":39,
                  "x":557.01,
                  "y":167.08
+                }, 
+                {
+                 "height":17.875,
+                 "id":33,
+                 "name":"Dowol",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Verdana",
+                     "pixelsize":13,
+                     "text":"Daniel ma dowol",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":165,
+                 "x":335,
+                 "y":262.0625
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -677,7 +695,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":33,
+ "nextobjectid":34,
  "orientation":"orthogonal",
  "properties":[
         {
