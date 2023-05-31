@@ -347,12 +347,17 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"moderated\/8a5bc49d44a6357d3a4c7e85c1fa203da1296eabcdce9876d46c4878793450d2"
+                         "value":"workAdventureConferencePodium"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
                  "type":"area",
