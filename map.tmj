@@ -433,6 +433,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{\"disableDeepLinking\":false,\"prejoinConfig\":{\"enabled\":false},\"startWithAudioMuted\":false,\"startWithVideoMuted\":false}"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"ChillZone"
@@ -441,6 +446,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"jitsi.serbski-inkubator.de"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -482,6 +492,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{\"disableDeepLinking\":false,\"prejoinConfig\":{\"enabled\":false},\"startWithAudioMuted\":false,\"startWithVideoMuted\":false}"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -490,6 +505,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"jitsi.serbski-inkubator.de"
                         }, 
                         {
                          "name":"zoom_margin",
