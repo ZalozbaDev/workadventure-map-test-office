@@ -335,33 +335,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":102.778830733343,
-                 "id":18,
-                 "name":"speaking",
-                 "properties":[
-                        {
-                         "name":"chatEnabled",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"speaking"
-                        }, 
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":"speakerMegaphone"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":219.090909090909,
-                 "x":32,
-                 "y":83.3101035136317
-                }, 
-                {
                  "height":71.612250966399,
                  "id":19,
                  "name":"website",
@@ -396,22 +369,12 @@
                 {
                  "height":197.764751330884,
                  "id":22,
-                 "name":"listening",
+                 "name":"silentlistening",
                  "properties":[
                         {
-                         "name":"chatEnabled",
+                         "name":"silent",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"speakerZoneName",
-                         "type":"string",
-                         "value":"speaking"
-                        }, 
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":"listenerMegaphone"
                         }],
                  "rotation":0,
                  "type":"area",
