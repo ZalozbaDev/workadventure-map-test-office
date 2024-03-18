@@ -817,6 +817,11 @@
                          "value":"door_close"
                         }, 
                         {
+                         "name":"closeSound",
+                         "type":"string",
+                         "value":"closing-door.mp3"
+                        }, 
+                        {
                          "name":"default",
                          "type":"bool",
                          "value":true
@@ -825,6 +830,11 @@
                          "name":"door",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"openSound",
+                         "type":"string",
+                         "value":"opening-door.mp3"
                         }, 
                         {
                          "name":"open_layer",
