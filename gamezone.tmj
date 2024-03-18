@@ -521,7 +521,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-games"
+                         "value":"map.wam#from-games"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -807,7 +807,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Wirtuelna schad\u017aowanka we WorkAdventure!"
+         "value":"Hrajemy we WorkAdventure!"
         }, 
         {
          "name":"mapImage",

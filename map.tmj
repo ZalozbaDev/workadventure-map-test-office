@@ -292,7 +292,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"confbroadcast.wam#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -330,7 +330,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gamezone.tmj#from-office"
+                         "value":"gamezone.wam#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,

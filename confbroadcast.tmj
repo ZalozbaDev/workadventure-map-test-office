@@ -84,7 +84,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-conference"
+                         "value":"map.wam#from-conference"
                         }],
                  "type":"tilelayer",
                  "visible":true,
