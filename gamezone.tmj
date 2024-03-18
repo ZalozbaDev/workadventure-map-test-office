@@ -514,40 +514,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":96,
-                 "id":22,
-                 "name":"to-office",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"map.wam#from-games"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":54.0041859686331,
-                 "x":2,
-                 "y":162
-                }, 
-                {
-                 "height":32,
-                 "id":23,
-                 "name":"from-office",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":29,
-                 "x":97.0055254785957,
-                 "y":191.499748841882
-                }, 
-                {
                  "height":162,
                  "id":24,
                  "name":"jitsiGameZone1",
