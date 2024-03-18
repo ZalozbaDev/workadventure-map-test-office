@@ -832,14 +832,14 @@
                          "value":true
                         }, 
                         {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"door_open"
+                        }, 
+                        {
                          "name":"openSound",
                          "type":"string",
                          "value":"opening-door.mp3"
-                        }, 
-                        {
-                         "name":"open_layer",
-                         "type":"string",
-                         "value":"door_open"
                         }],
                  "rotation":0,
                  "type":"variable",
